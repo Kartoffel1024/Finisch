@@ -1,0 +1,46 @@
+
+0 bis 10
+========
+
+ 0 nolla
+ 1 yksi
+ 2 kaksi
+ 3 kolme
+ 4 neljä
+ 5 viisi
+ 6 kuusi
+ 7 seitsemän
+ 8 kahdeksan
+ 9 yhdeksän
+10 kymmenen
+
+
+
+11 bis 19
+=========
+
+<nr>+toista
+
+
+  10er
+=========
+
+<nr>+kymmentä
+
+
+20 bis 99
+=========
+
+<10er>+<nr>
+
+
+ größer 
+========
+
+	 	  100 sata
+	    1 000 tuhat
+	  100 000 sata tuhatta
+	1 000 000 miljoona
+1 000 000 000 miljardi
+
+
