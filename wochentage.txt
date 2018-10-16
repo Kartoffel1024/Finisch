@@ -1,0 +1,9 @@
+Wochentage
+
+Montag     maanantai
+Dienstag   tiistai
+Mittwoch   keskiviikko
+Donnerstag torstai
+Freitag    perjantai
+Samstag    lauantai
+Sonntag    sunnuntai
