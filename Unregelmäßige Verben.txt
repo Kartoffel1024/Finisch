@@ -7,7 +7,7 @@ Wir sind	- 	Me olemme
 Ihr seit	-	Te olette
 Sie sind	-	He/Ne ovat
 
-
+machen - tedäh
 Ich mache	-	Minä teen
 Du machst	-	Sinä teet
 Er/sie/es macht	-	Han/Se tekee
@@ -15,9 +15,17 @@ Wir machen	- 	Me teemme
 Ihr macht	-	Te teette
 Sie machen	-	He/Ne tekevät
 
+sehen - nähdä
+Ich sehe	-	Minä näen
+Du siehst	-	Sinä näet
+Er/sie/es sieht	-	Han/Se näkee
+Wir sehen	- 	Me näemme
+Ihr seht	-	Te näette
+Sie sehen	-	He/Ne näkevät
 
-Ich 		-	Minä 
-Du 		-	Sinä 
+
+Ich 	-	Minä 
+Du 	-	Sinä 
 Er/sie/es 	-	Han/Se 
 Wir 	- 	Me 
 Ihr 	-	Te 
