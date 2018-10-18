@@ -2,7 +2,8 @@ Unregelmäßige Verben
 sein – olla
 Ich bin		-	Minä olen
 Du bist		-	Sinä olet
-Er/sie/es ist	-	Han/Se on
+Er/sie/es ist	-	Ha
+än/Se on
 Wir sind	- 	Me olemme
 Ihr seit	-	Te olette
 Sie sind	-	He/Ne ovat
@@ -10,7 +11,7 @@ Sie sind	-	He/Ne ovat
 machen - tedäh
 Ich mache	-	Minä teen
 Du machst	-	Sinä teet
-Er/sie/es macht	-	Han/Se tekee
+Er/sie/es macht	-	Hän/Se tekee
 Wir machen	- 	Me teemme
 Ihr macht	-	Te teette
 Sie machen	-	He/Ne tekevät
@@ -18,7 +19,7 @@ Sie machen	-	He/Ne tekevät
 sehen - nähdä
 Ich sehe	-	Minä näen
 Du siehst	-	Sinä näet
-Er/sie/es sieht	-	Han/Se näkee
+Er/sie/es sieht	-	Hän/Se näkee
 Wir sehen	- 	Me näemme
 Ihr seht	-	Te näette
 Sie sehen	-	He/Ne näkevät
@@ -26,7 +27,7 @@ Sie sehen	-	He/Ne näkevät
 
 Ich 	-	Minä 
 Du 	-	Sinä 
-Er/sie/es 	-	Han/Se 
+Er/sie/es 	-	Hän/Se 
 Wir 	- 	Me 
 Ihr 	-	Te 
 Sie - He/Ne 
