@@ -2,8 +2,7 @@ Unregelmäßige Verben
 sein – olla
 Ich bin		-	Minä olen
 Du bist		-	Sinä olet
-Er/sie/es ist	-	Ha
-än/Se on
+Er/sie/es ist	-	Hän/Se on
 Wir sind	- 	Me olemme
 Ihr seit	-	Te olette
 Sie sind	-	He/Ne ovat
@@ -31,3 +30,4 @@ Er/sie/es 	-	Hän/Se
 Wir 	- 	Me 
 Ihr 	-	Te 
 Sie - He/Ne 
+
