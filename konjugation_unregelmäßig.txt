@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Unregelmäßige Verben
 sein - olla
 Ich bin			-	Minä olen
@@ -30,3 +31,38 @@ Er/sie/es schafft...	-	Han/Se kerkiää(/kerkeää)
 Wir schaffen...		- 	Me kerkiämme(/kermeämme)
 Ihr schafft...		-	Te kerkiätte(/kerkeätte)
 Sie schaffen...		-	He/Ne kerkiätvät(/kerkeätvät)
+=======
+UnregelmÃ¤ÃŸige Verben
+sein â€“ olla
+Ich bin		-	MinÃ¤ olen
+Du bist		-	SinÃ¤ olet
+Er/sie/es ist	-	Ha
+Ã¤n/Se on
+Wir sind	- 	Me olemme
+Ihr seit	-	Te olette
+Sie sind	-	He/Ne ovat
+
+machen - tedÃ¤h
+Ich mache	-	MinÃ¤ teen
+Du machst	-	SinÃ¤ teet
+Er/sie/es macht	-	HÃ¤n/Se tekee
+Wir machen	- 	Me teemme
+Ihr macht	-	Te teette
+Sie machen	-	He/Ne tekevÃ¤t
+
+sehen - nÃ¤hdÃ¤
+Ich sehe	-	MinÃ¤ nÃ¤en
+Du siehst	-	SinÃ¤ nÃ¤et
+Er/sie/es sieht	-	HÃ¤n/Se nÃ¤kee
+Wir sehen	- 	Me nÃ¤emme
+Ihr seht	-	Te nÃ¤ette
+Sie sehen	-	He/Ne nÃ¤kevÃ¤t
+
+
+Ich 	-	MinÃ¤ 
+Du 	-	SinÃ¤ 
+Er/sie/es 	-	HÃ¤n/Se 
+Wir 	- 	Me 
+Ihr 	-	Te 
+Sie - He/Ne 
+>>>>>>> 6e37c788b840527036d7620f64cec23bbf870cff
