@@ -1,32 +1,32 @@
 Unregelm‰ﬂige Verben
-sein ñ olla
-Ich bin		-	Min‰ olen
-Du bist		-	Sin‰ olet
-Er/sie/es ist	-	Han/Se on
-Wir sind	- 	Me olemme
-Ihr seit	-	Te olette
-Sie sind	-	He/Ne ovat
+sein - olla
+Ich bin			-	Min‰ olen
+Du bist			-	Sin‰ olet
+Er/sie/es ist		-	Han/Se on
+Wir sind		- 	Me olemme
+Ihr seit		-	Te olette
+Sie sind		-	He/Ne ovat
 
 machen - ted‰h
-Ich mache	-	Min‰ teen
-Du machst	-	Sin‰ teet
-Er/sie/es macht	-	Han/Se tekee
-Wir machen	- 	Me teemme
-Ihr macht	-	Te teette
-Sie machen	-	He/Ne tekev‰t
+Ich mache		-	Min‰ teen
+Du machst		-	Sin‰ teet
+Er/sie/es macht		-	Han/Se tekee
+Wir machen		- 	Me teemme
+Ihr macht		-	Te teette
+Sie machen		-	He/Ne tekev‰t
 
 sehen - n‰hd‰
-Ich sehe	-	Min‰ n‰en
-Du siehst	-	Sin‰ n‰et
-Er/sie/es sieht	-	Han/Se n‰kee
-Wir sehen	- 	Me n‰emme
-Ihr seht	-	Te n‰ette
-Sie sehen	-	He/Ne n‰kev‰t
+Ich sehe		-	Min‰ n‰en
+Du siehst		-	Sin‰ n‰et
+Er/sie/es sieht		-	Han/Se n‰kee
+Wir sehen		- 	Me n‰emme
+Ihr seht		-	Te n‰ette
+Sie sehen		-	He/Ne n‰kev‰t
 
-
-Ich 	-	Min‰ 
-Du 	-	Sin‰ 
-Er/sie/es 	-	Han/Se 
-Wir 	- 	Me 
-Ihr 	-	Te 
-Sie 	-	He/Ne 
+Es rechtzeitig schaffen - Kerit‰
+Ich schaffe...		-	Min‰ kerki‰n(/kerke‰n)
+Du schaffst...		-	Sin‰ kerki‰t(/kerke‰t)
+Er/sie/es schafft...	-	Han/Se kerki‰‰(/kerke‰‰)
+Wir schaffen...		- 	Me kerki‰mme(/kerme‰mme)
+Ihr schafft...		-	Te kerki‰tte(/kerke‰tte)
+Sie schaffen...		-	He/Ne kerki‰tv‰t(/kerke‰tv‰t)
