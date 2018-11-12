@@ -1,0 +1,17 @@
+<fragewort> <verb> <subjekt> <restsatz>
+oder
+<verb -ko> <subjekt> <restsatz> (ja/nein frage)
+
+Fragewörter:
+mikä 		was
+missä		wo
+mistä		woher
+minne		wohin
+milloin		wann
+miten		wie
+miksi		warum
+millainen	von welcher art
+
+Antwort auf Frage
+
+<gebeugtes verb> <restsatz> (! Kein Subjekt!!!)

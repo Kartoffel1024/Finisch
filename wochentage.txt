@@ -7,3 +7,5 @@ Donnerstag torstai
 Freitag    perjantai
 Samstag    lauantai
 Sonntag    sunnuntai
+
+Meist im Essiv! (mit -na Endung)

@@ -1,6 +1,18 @@
+verneinungsverb
+
 minä en 
 sinä et
 hän/se ei
 me emme
 te ette 
 he/ne eivät
+
+
+sprechen puhua
+
+minä puhun
+sinä puhut
+hän puhuu
+me puhumme
+te puhutte
+he puhuvät

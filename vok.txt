@@ -1,1 +1,16 @@
 Hallo	terve	[hier fehlt die lautschrift]
+sauber	puhdas
+danke 	kiitos
+gut 	hyvä
+Tag		päivaä
+Donut	munkki
+bezahlen maksaa
+Hier 	siinä
+Sprache	kieli
+vielleicht	ehkä
+Ticket	lippu
+
+Frühling	Kevät
+Sommer		Kesä
+Herbst		Syksy
+Winter		Talvi
