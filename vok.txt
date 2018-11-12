@@ -10,6 +10,9 @@ Sprache	kieli
 vielleicht	ehkä
 Ticket	lippu
 
+nein	ei
+ja		kyllä
+
 Frühling	Kevät
 Sommer		Kesä
 Herbst		Syksy
