@@ -30,3 +30,13 @@ Er/sie/es schafft...	-	Han/Se kerki‰‰(/kerke‰‰)
 Wir schaffen...		- 	Me kerki‰mme(/kerme‰mme)
 Ihr schafft...		-	Te kerki‰tte(/kerke‰tte)
 Sie schaffen...		-	He/Ne kerki‰tv‰t(/kerke‰tv‰t)
+
+
+Preesens
+min‰ tulen
+sin‰ tulet
+h‰n/se tulee
+me tulemme
+te tulette
+he tulevat
+passiivi tullaan
